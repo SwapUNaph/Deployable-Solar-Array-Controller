@@ -1,13 +1,13 @@
 # Deployable-Solar-Array-Controller
 The deployable solar array controller is used to deploy the Origami-based Solar Array mechanism. It is implemented using Arduino Nano. Please visit the project page for more details: https://swapneelnaphade.tech/projects/origami-based-deployable-solar-array 
  
- <p align="center"><img width="500" src="https://swapneelnaphade.tech/wp-content/uploads/2018/12/image074.jpg"><br>
+ <p align="center"><img width="500" src="https://swapneelnaphade.tech/wp-content/uploads/2018/12/image074.jpg"></p><br>
 
 The circuit is as shown in the above figure of an Arduino Nano soldered onto a perf board.
 
-<img align="center" width="500" src="https://swapneelnaphade.tech/wp-content/uploads/2018/12/image067-300x185.jpg"><br>
+ <p align="center"><img align="center" width="500" src="https://swapneelnaphade.tech/wp-content/uploads/2018/12/image067-300x185.jpg"></p><br>
 
-The servo motors are attached to the mechanism as shown in the above CAD image.</p>
+The servo motors are attached to the mechanism as shown in the above CAD image.
 
 
 ## Commands
