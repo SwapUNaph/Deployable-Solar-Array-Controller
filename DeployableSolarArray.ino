@@ -47,13 +47,11 @@ void loop() {
       case 'D':
         Serial.println("Starting Deployment....");
         mode = DEPLOY;
-        //Serial.println("Deployment Complete.");
         break;
       case 'r':
       case 'R':
         Serial.println("Starting Retraction....");
         mode = RETRACT;
-        //Serial.println("Retraction Complete.");
         break;
      case 'F':
      case 'f':
