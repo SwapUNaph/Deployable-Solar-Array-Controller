@@ -85,6 +85,7 @@ void loop() {
     }
   }
 
+  //State Machine
   switch(mode){
     case DEPLOY:
       deploy();
