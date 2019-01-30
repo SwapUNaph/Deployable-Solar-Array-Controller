@@ -11,6 +11,7 @@ The servo motors are attached to the mechanism as shown in the above CAD image.
 
 
 ## Commands
+The following commands can be sent through the UART port of Arduino Nano:
 - "d" or "D" -> Starts the deployment process
 - "r" or "R" -> Starts the retraction process
 - "f xxx" or "F xxx" -> Changes the full swing angle of mechanism by xxx degrees.
